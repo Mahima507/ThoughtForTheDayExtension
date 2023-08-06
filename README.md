@@ -2,7 +2,7 @@
 
 Generate random inspirational quotes with this Chrome extension.
 
-An chrome extension for daily motivation.
+A chrome extension for daily motivation.
 Check out these screenshots of my awesome Chrome extension!
 
 ![images](images/img1.png)
