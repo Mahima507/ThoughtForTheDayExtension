@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Thought for the Day",
+    "version": "1.0",
+    "description": "Generate random quotes.",
+    "permissions": [],
+    "action": {
+        "default_icon": "icon.png",
+        "default_title": "Random Quotes",
+        "default_popup": "popup.html"
+    }
+}
