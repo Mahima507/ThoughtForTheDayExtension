@@ -1,7 +1,15 @@
 # Thought for the Day - Chrome Extension
 
 Generate random inspirational quotes with this Chrome extension.
-![Image Alt Text](relative-path-to-image.png)
+
+# My Awesome Chrome Extension
+
+Check out these screenshots of my awesome Chrome extension!
+
+![images](images/img1.png)
+![images](images/img2.png)
+![images](images/img3.png)
+![images](images/img6.png)
 
 ## Usage
 
