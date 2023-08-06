@@ -1,8 +1,8 @@
 # Thought for the Day - Chrome Extension
 
 Generate random inspirational quotes with this Chrome extension.
-
-An chrome extension for daily motivation Check out these screenshots of my awesome Chrome extension!
+An chrome extension for daily motivation.
+Check out these screenshots of my awesome Chrome extension!
 
 ![images](images/img1.png)
 ![images](images/img2.png)
